@@ -1,4 +1,3 @@
-
 ## Hello There 😉
 
 I'm a developer and enthusiastic in tecnologies and innovation. I'm always eager to learn new technologies and continuously improve my skills.
@@ -9,7 +8,11 @@ Best regards,
 Diego.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoCstyles&count_private=true&theme=dark" />
+  <img height="35%" width="35%" src="https://github-readme-stats.vercel.app/api?username=DiegoCstyles&count_private=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img height="35%" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCstyles&layout=compact&theme=dark" />
 </p>
 
 <div style="display: inline_block"><br>
