@@ -8,11 +8,15 @@ Best regards,
 Diego.
 
 <p align="center">
-  <img height="35%" width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DiegoCstyles&count_private=true&theme=dark" />
+  <img height="35%" width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DiegoCstyles&count_private=true&theme=dark"/>
 </p>
 
 <p align="center">
-  <img height="35%" width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiegoCstyles&layout=compact&theme=dark" />
+  <img height="35%" width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiegoCstyles&layout=compact&theme=dark"/>
+</p>
+
+<p align="center">
+  <img height="35%" width="35%" src="https://github-readme-streak-stats.herokuapp.com/?username=DiegoCstyles&layout=compact&theme=dark"/>
 </p>
 
 <div style="display: inline_block"><br>
