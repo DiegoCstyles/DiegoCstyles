@@ -15,10 +15,8 @@ Diego.
   <img height="35%" width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiegoCstyles&layout=compact&theme=dark"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoCstyles&" alt="DiegoCstyles" /></p>
-
 <p align="center">
-  <img height="35%" width="35%" src="https://github-readme-streak-stats.herokuapp.com/?username=DiegoCstyles&"/>
+  <img height="35%" width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoCstyles&" alt="DiegoCstyles" />
 </p>
 
 <div style="display: inline_block"><br>
