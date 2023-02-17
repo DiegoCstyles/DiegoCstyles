@@ -16,7 +16,7 @@ Diego.
 </p>
 
 <p align="center">
-  <img height="35%" width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoCstyles&" alt="DiegoCstyles" />
+  <img height="35%" width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoCstyles&layout=compact&theme=dark" alt="DiegoCstyles" />
 </p>
 
 <div style="display: inline_block"><br>
