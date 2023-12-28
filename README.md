@@ -30,9 +30,6 @@ Feel free to drop by if you have any questions, want to discuss the latest tech 
 ## 📫 Let's Connect
 
 <div> 
-  <a href="https://www.instagram.com/_diegoxrc" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
   <a href="mailto:diegoe.r.c07@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
