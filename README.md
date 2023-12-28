@@ -7,7 +7,7 @@ Feel free to drop by if you have any questions, want to discuss the latest tech 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="32%" width="37%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiegoCstyles&layout=compact&theme=dark"/>
+  <img height="31%" width="36%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiegoCstyles&layout=compact&theme=dark"/>
   <img height="40%" width="45%" src="https://streak-stats.demolab.com/?user=DiegoCstyles&layout=compact&theme=dark"/>
 </p>
 
