@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+<img src="./github-header-image.png" alt="Header" style="max-width:100%;">
 
 # Diego's Developer Playground 🚀
 
