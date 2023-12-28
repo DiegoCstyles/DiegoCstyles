@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 # Diego's Developer Playground 🚀
 
 Welcome to my corner of the coding universe! 👋 I'm Diego, a passionate developer with a keen interest in cutting-edge technologies and a perpetual thirst for learning. Whether it's mastering new programming languages, diving into innovative frameworks, or honing my existing skills, I'm always on the lookout for opportunities to grow.
