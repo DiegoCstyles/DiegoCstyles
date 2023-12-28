@@ -41,4 +41,4 @@ Feel free to drop by if you have any questions, want to discuss the latest tech 
 
 Keep coding, stay curious! 🚀✨
 
-![snake gif](https://github.com/DiegoCstyles/DiegoCstyles/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DiegoCstyles/DiegoCstyles/blob/output/github-contribution-grid-snake.gif)
