@@ -13,35 +13,23 @@ Feel free to drop by if you have any questions, want to discuss the latest tech 
   <img height="40%" width="45%" src="https://streak-stats.demolab.com/?user=DiegoCstyles&layout=compact&theme=dark"/>
 </p>
 
-<style>
-  .icon-container {
-    display: flex;
-    justify-content: space-around;
-    background-color: #fff; /* Add a background color if needed */
-  }
+## 💻 Tech Stack
 
-  .icon-container img {
-    height: 30px;
-    width: 40px;
-    filter: grayscale(100%); /* Convert the image to black and white */
-    margin: 10px; /* Adjust the margin as needed */
-  }
-</style>
-
-<div class="icon-container">
-  <img align="center" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+<div style="display: flex; justify-content: space-around; background-color: #fff;">
+  <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div>
+
 
 ## 📫 Let's Connect
 
