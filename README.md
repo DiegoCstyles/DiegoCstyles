@@ -21,7 +21,7 @@ Feel free to drop by if you have any questions, want to discuss the latest tech 
   <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line-colored.svg">
+  <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
   <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
 
