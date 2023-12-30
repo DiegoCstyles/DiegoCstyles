@@ -16,7 +16,14 @@ Feel free to drop by if you have any questions, want to discuss the latest tech 
 ## 💻 Tech Stack
 
 <div style="display: flex; justify-content: space-around; background-color: #fff;">
-  <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <svg height="30" width="40" style="margin: 10px;">
+      <style>
+        .icon { fill: #ff00ff; }
+      </style>
+      <use xlink:href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg#html5-original" class="icon"></use>
+    </svg>
+
+  
   <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
