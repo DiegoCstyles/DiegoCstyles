@@ -28,7 +28,7 @@ Feel free to drop by if you have any questions, want to discuss the latest tech 
 ## 📫 Let's Connect
 
 <div> 
-  <a href="mailto:diegoe.r.c07@gmail.com">
+  <a href="mailto:diego.costa.tech@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/diegoerc/" target="_blank">
