@@ -31,7 +31,7 @@ Feel free to drop by if you have any questions, want to discuss the latest tech 
   <a href="mailto:diego.costa.tech@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/diegoerc/" target="_blank">
+  <a href="https://www.linkedin.com/in/diegocosta⚜/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
