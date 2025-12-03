@@ -12,7 +12,7 @@ If you're into tech discussions, exploring new tools, or simply exchanging ideas
 
 ## 📊 GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Diego-Costa-Tech&theme=blue-green&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Diego-Costa-Tech&theme=blue-green&short_numbers=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
 
 ---
 
