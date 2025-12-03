@@ -13,8 +13,7 @@ If you're into tech discussions, exploring new tools, or simply exchanging ideas
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Costa-Tech&layout=compact&theme=radical&hide_border=true" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Diego-Costa-Tech&theme=blue-green&short_numbers=true&date_format=%5BY.%5Dn.j&card_width=494" alt="GitHub Streak" /></a>
+  <img height="165" src="https://streak-stats.demolab.com?user=Diego-Costa-Tech&theme=dark&hide_border=true" />
 </p>
 
 ---
