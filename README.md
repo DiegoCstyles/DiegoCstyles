@@ -12,12 +12,13 @@ If you're into tech discussions, exploring new tools, or simply exchanging ideas
 
 ## 📊 GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Diego-Costa-Tech&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Costa-Tech&layout=compact&theme=transparent&title_color=ffffff&text_color=bbbbbb" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Diego-Costa-Tech&theme=dark&hide_border=true" />
+  <img height="32" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Diego-Costa-Tech&layout=compact&theme=dark&hide_border=true" />
+  <a href="https://git.io/streak-stats">
+    <img height="32" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=Diego-Costa-Tech&theme=dark&hide_border=true" />
+  </a>
 </p>
+
 
 ---
 
