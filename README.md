@@ -1,19 +1,19 @@
 ![Header](./header.png)
 
-# Developer Playground 🚀
+# Developer Playground
 
-Welcome to my corner of the coding universe! 👋 I'm Diego, a passionate developer with a keen interest in cutting-edge technologies and a perpetual thirst for learning. Whether it's mastering new programming languages, diving into innovative frameworks, or honing my existing skills, I'm always on the lookout for opportunities to grow.
+Welcome to my corner of the coding universe! I'm Diego, a passionate developer with a keen interest in cutting-edge technologies and a perpetual thirst for learning. Whether it's mastering new programming languages, diving into innovative frameworks, or honing my existing skills, I'm always on the lookout for opportunities to grow.
 
 Feel free to drop by if you have any questions, want to discuss the latest tech trends, or just to say hello! 🌟
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="31.5%" width="36.5%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Diego-Costa-Tech&layout=compact&theme=dark"/>
   <img height="40%" width="45%" src="https://streak-stats.demolab.com/?user=Diego-Costa-Tech&layout=compact&theme=dark"/>
 </p>
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div style="display: flex; justify-content: space-around; background-color: #fff;">
   <img style="height: 30px; width: 40px; filter: grayscale(100%); margin: 10px;" align="center" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
@@ -25,7 +25,7 @@ Feel free to drop by if you have any questions, want to discuss the latest tech 
 </div>
 
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div> 
   <a href="mailto:diego.costa.tech@gmail.com">
@@ -36,4 +36,4 @@ Feel free to drop by if you have any questions, want to discuss the latest tech 
   </a> 
 </div>
 
-Keep coding, stay curious! 🚀✨
+Keep coding, stay curious!
