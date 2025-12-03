@@ -9,8 +9,8 @@ Feel free to drop by if you have any questions, want to discuss the latest tech 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="31.5%" width="36.5%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiegoCstyles&layout=compact&theme=dark"/>
-  <img height="40%" width="45%" src="https://streak-stats.demolab.com/?user=DiegoCstyles&layout=compact&theme=dark"/>
+  <img height="31.5%" width="36.5%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Diego-Costa-Tech&layout=compact&theme=dark"/>
+  <img height="40%" width="45%" src="https://streak-stats.demolab.com/?user=Diego-Costa-Tech&layout=compact&theme=dark"/>
 </p>
 
 ## 💻 Tech Stack
