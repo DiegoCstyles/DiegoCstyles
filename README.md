@@ -12,7 +12,7 @@ If you're into tech discussions, exploring new tools, or simply exchanging ideas
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diego-Costa-Tech&show_icons=true&theme=algolia&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diego-Costa-Tech&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true)
 
 ---
 
