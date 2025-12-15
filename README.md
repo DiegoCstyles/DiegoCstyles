@@ -12,7 +12,6 @@ If you're into tech discussions, exploring new tools, or simply exchanging ideas
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diego-Costa-Tech&theme=algolia&hide_border=true)
 
 ---
 
