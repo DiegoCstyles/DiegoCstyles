@@ -12,7 +12,8 @@ If you're into tech discussions, exploring new tools, or simply exchanging ideas
 
 ## 📊 GitHub Statistics
 
-[![GitHub Streak]([https://streak-stats.demolab.com/?user=Diego-Costa-Tech](https://streak-stats.demolab.com?user=Diego-Costa-Tech&theme=blue-green&short_numbers=true))](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Diego-Costa-Tech&theme=blue-green&short_numbers=true)](https://git.io/streak-stats)
+
 
 ---
 
