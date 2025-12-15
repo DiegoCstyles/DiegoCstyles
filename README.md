@@ -12,7 +12,7 @@ If you're into tech discussions, exploring new tools, or simply exchanging ideas
 
 ## 📊 GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Diego-Costa-Tech)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diego-Costa-Tech&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 
 ---
 
