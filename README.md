@@ -23,7 +23,7 @@
 <p align="center">
   <b>Welcome!</b> I'm <b>Diego</b>, a developer focused on building  
   <br/>
-  <b>clean, scalable, and future-ready systems</b>.
+  <b>scalable and future-ready systems</b>.
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ $ whoami
 root user 
 
 $ mindset
-Code | Automation | Scalability 
+Integration | Automation 
 
 $ status
 Running RAG in industrial level production 🚀
