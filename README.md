@@ -53,7 +53,7 @@
 
 ---
 
-## System Status
+## Sys Status
 
 ```bash
 $ whoami
