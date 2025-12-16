@@ -5,7 +5,7 @@
 
 
 <h1 align="center">
-  🔲 Developer Playground 🔲
+  Developer Playground
 </h1>
 
 <br/>
