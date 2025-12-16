@@ -61,8 +61,8 @@ $ whoami
 user
 
 $ mindset
-Code | Automation | Scalability
+Code | Automation | Scalability 
 
 $ status
-Running in production 🚀
+Running RAG in industrial level production 🚀
 
