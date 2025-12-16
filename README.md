@@ -36,7 +36,7 @@
 
 <!-- TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=00FFD1&center=true&vCenter=true&width=650&lines=Building+the+future;Shipping+clean+code;Learning+non-stop" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=00FFD1&center=true&vCenter=true&width=650&lines=Building+the+future;Shipping+code;Learning+non-stop" />
 </p>
 
 ---
