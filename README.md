@@ -41,7 +41,7 @@
 
 ---
 
-## 📬 Connect via
+## Connect via
 
 <p align="center">
   <a href="mailto:diego.costa.tech@gmail.com">
@@ -54,7 +54,7 @@
 
 ---
 
-## 🧬 System Status
+## System Status
 
 ```bash
 $ whoami
