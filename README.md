@@ -13,6 +13,7 @@ If you're into tech discussions, exploring new tools, or simply exchanging ideas
 ## 📊 GitHub Status
 
 <p align="center">
+  <a href="https://github.com/Diego-Costa-Tech">
   <img src="https://readme-typing-svg.herokuapp.com?
   font=Fira+Code&
   size=28&
@@ -22,6 +23,7 @@ If you're into tech discussions, exploring new tools, or simply exchanging ideas
   vCenter=true&
   width=600&
   lines=Building+things;Learning+every+day;Shipping+code" />
+  </a>
 </p>
 
 ---
