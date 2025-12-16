@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FFD1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MODE-DEEP_WORK-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FOCUS-BUILDING%20RAG%20PIPELINE-FF00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-BUILDING%20RAG%20ARCHITECTURE%20PIPELINE-FF00FF?style=for-the-badge" />
 </p>
 
 ---
