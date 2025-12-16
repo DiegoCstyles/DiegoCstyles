@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Solution-Oriented%20Developer&fontSize=46&fontColor=00FFD1&animation=fadeIn&color=0:0f2027,50:203a43,100:2c5364&desc=Code%20•%20Scalable%20Systems%20•%20Real%20Impact&descSize=18&descAlign=50&descAlignY=65" />
 </p>
 
-
 <h1 align="center">
   > SYS PROFILE
 </h1>
@@ -44,11 +43,11 @@
 ## Connect via
 
 <p align="center">
-  <a href="mailto:diego.costa.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF00FF?style=for-the-badge" />
-  </a>
   <a href="https://www.linkedin.com/in/diegocostatech/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00FFD1?style=for-the-badge" />
+  </a>
+  <a href="mailto:diego.costa.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF00FF?style=for-the-badge" />
   </a>
 </p>
 
@@ -65,4 +64,3 @@ Integration | Automation
 
 $ status
 Running RAG in industrial level production 🚀
-
