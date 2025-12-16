@@ -5,7 +5,7 @@
 
 
 <h1 align="center">
-  Developer Playground
+  Profile
 </h1>
 
 <br/>
