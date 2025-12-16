@@ -41,6 +41,22 @@
 
 ---
 
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:diego.costa.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF00FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/diegocostatech/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00FFD1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Diego-Costa-Tech" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🧬 System Status
 
 ```bash
