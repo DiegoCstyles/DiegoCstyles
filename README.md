@@ -41,7 +41,7 @@
 ---
 
 <h2 align="center">
-## Connect via
+  Connect via
 </h2>
 
 <p align="center">
