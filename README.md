@@ -39,8 +39,9 @@
 </p>
 
 ---
-
+<p align="center">
 ## Connect via
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diegocostatech/" target="_blank">
@@ -53,7 +54,7 @@
 
 ---
 
-## Sys Status
+## > Sys Status
 
 ```bash
 $ whoami
