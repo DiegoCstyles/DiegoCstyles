@@ -39,9 +39,10 @@
 </p>
 
 ---
-<p align="center">
+
+<h2 align="center">
 ## Connect via
-</p>
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diegocostatech/" target="_blank">
