@@ -45,10 +45,10 @@
 
 <p align="center">
   <a href="mailto:diego.costa.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF00FF?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/>-Gmail-FF00FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/diegocostatech/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFD1?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/>-LinkedIn-00FFD1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
