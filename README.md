@@ -54,7 +54,7 @@
 
 ---
 
-## > Sys Status
+## ! Sys Status
 
 ```bash
 $ whoami
