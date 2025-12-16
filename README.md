@@ -8,10 +8,6 @@
   🔲 Developer Playground 🔲
 </h1>
 
-<p align="center">
-  <i>Code • Scalable systems • Modern solutions</i>
-</p>
-
 <br/>
 
 <!-- STATUS -->
