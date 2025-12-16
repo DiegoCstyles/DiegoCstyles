@@ -1,47 +1,58 @@
-![Header](./header.png)
+<!-- HEADER -->
+<p align="center">
+  <img src="./header.png" width="100%" />
+</p>
 
-# Developer Playground
+<h1 align="center">
+  ⚡ Developer Playground ⚡
+</h1>
 
-Welcome! I'm **Diego**, a developer focused on building clean, scalable, and modern solutions.  
-I’m constantly exploring new technologies, improving my craft, and staying aligned with the evolving software landscape.  
-From backend logic to front-end experiences, I enjoy creating practical and impactful solutions.
+<p align="center">
+  <i>Code • Scalable systems • Modern solutions</i>
+</p>
 
-If you're into tech discussions, exploring new tools, or simply exchanging ideas, feel free to reach out.
+<br/>
 
----
-
-## 📊 GitHub Status
-
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&width=600&lines=Building+things;Learning+every+day;Shipping+code" /></p>
-
----
-
-## 🛠️ Tech Stack
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px 0;">
-  <img height="35" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img height="35" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img height="35" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img height="35" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img height="35" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img height="35" alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
-  <img height="35" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img height="35" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<!-- STATUS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FFD1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MODE-DEEP_WORK-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-BUILDING-FF00FF?style=for-the-badge" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
+<!-- INTRO -->
+<p align="center">
+  <b>Welcome!</b> I'm <b>Diego</b>, a developer focused on building  
+  <br/>
+  <b>clean, scalable, and future-ready systems</b>.
+</p>
 
-<div> 
-  <a href="mailto:diego.costa.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/diegocostatech/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-</div>
+<p align="center">
+  Exploring new technologies, refining my craft,  
+  <br/>
+  and engineering solutions that actually matter.
+</p>
 
 ---
 
-Thanks for stopping by — and keep building great things!
+<!-- TYPING SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=00FFD1&center=true&vCenter=true&width=650&lines=Building+the+future;Shipping+clean+code;Learning+non-stop" />
+</p>
+
+---
+
+## 🧬 System Status
+
+```bash
+$ whoami
+user
+
+$ mindset
+Code | Automation | Scalability
+
+$ status
+Running in production 🚀
+
