@@ -58,7 +58,7 @@
 
 ```bash
 $ whoami
-user
+root user 
 
 $ mindset
 Code | Automation | Scalability 
